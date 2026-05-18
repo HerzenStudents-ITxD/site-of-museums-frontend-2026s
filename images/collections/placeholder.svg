@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#667eea"/>
+  <text x="200" y="150" text-anchor="middle" fill="white" font-size="20" font-family="Arial">Коллекция</text>
+  <text x="200" y="180" text-anchor="middle" fill="white" font-size="14" font-family="Arial">Изображение загружается</text>
+</svg>

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/site_museum/static/css/main.78b5b050.css",
+    "main.js": "/site_museum/static/js/main.df332d34.js",
+    "index.html": "/site_museum/index.html",
+    "main.78b5b050.css.map": "/site_museum/static/css/main.78b5b050.css.map",
+    "main.df332d34.js.map": "/site_museum/static/js/main.df332d34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78b5b050.css",
+    "static/js/main.df332d34.js"
+  ]
+}
