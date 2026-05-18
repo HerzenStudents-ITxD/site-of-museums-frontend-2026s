@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="90" fill="#f0f0f0" stroke="#e74c3c" stroke-width="2"/>
+  <text x="100" y="80" text-anchor="middle" font-size="50" font-weight="bold" fill="#e74c3c" font-family="Arial">4</text>
+  <text x="100" y="80" text-anchor="middle" font-size="50" font-weight="bold" fill="#3498db" font-family="Arial" dx="15">0</text>
+  <text x="100" y="80" text-anchor="middle" font-size="50" font-weight="bold" fill="#e74c3c" font-family="Arial" dx="30">4</text>
+  <path d="M70 120 Q100 140 130 120" fill="none" stroke="#2c3e50" stroke-width="3"/>
+  <circle cx="80" cy="110" r="5" fill="#2c3e50"/>
+  <circle cx="120" cy="110" r="5" fill="#2c3e50"/>
+  <text x="100" y="160" text-anchor="middle" font-size="14" fill="#7f8c8d" font-family="Arial">Страница не найдена</text>
+</svg>
