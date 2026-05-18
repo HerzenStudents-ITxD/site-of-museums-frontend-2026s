@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/site_museum/static/css/main.78b5b050.css",
-    "main.js": "/site_museum/static/js/main.df332d34.js",
-    "index.html": "/site_museum/index.html",
-    "main.78b5b050.css.map": "/site_museum/static/css/main.78b5b050.css.map",
-    "main.df332d34.js.map": "/site_museum/static/js/main.df332d34.js.map"
+    "main.css": "/site-of-museums-frontend-2026s/static/css/main.78b5b050.css",
+    "main.js": "/site-of-museums-frontend-2026s/static/js/main.f847841c.js",
+    "index.html": "/site-of-museums-frontend-2026s/index.html",
+    "main.78b5b050.css.map": "/site-of-museums-frontend-2026s/static/css/main.78b5b050.css.map",
+    "main.f847841c.js.map": "/site-of-museums-frontend-2026s/static/js/main.f847841c.js.map"
   },
   "entrypoints": [
     "static/css/main.78b5b050.css",
-    "static/js/main.df332d34.js"
+    "static/js/main.f847841c.js"
   ]
 }
